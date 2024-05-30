@@ -109,6 +109,3 @@ This is a simple user management system built with React for the frontend and PH
 4. Push to the branch (`git push origin feature/awesome-feature`)
 5. Open a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
